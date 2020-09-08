@@ -8,5 +8,5 @@
 ### Passions
 
 * :computer: My Job
-* :bike: Moutain bike
+* :bike: Moutnain bike
 * :cookie: Cooking
